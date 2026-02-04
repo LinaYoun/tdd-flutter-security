@@ -1,0 +1,8 @@
+{
+  "name": "tdd-flutter-security",
+  "version": "1.0.0",
+  "description": "TDD 기반 Flutter Android 앱 보안 개발 플러그인 - Test-Driven Development와 KISA 보안 가이드를 결합한 Flutter 앱 개발 지원",
+  "author": {
+    "name": "0sule"
+  }
+}

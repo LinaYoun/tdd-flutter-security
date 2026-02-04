@@ -1,0 +1,26 @@
+{
+  "name": "Rose-Security",
+  "owner": {
+    "name": "Rose",
+    "email": "0sulemi0@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "tdd-flutter-security",
+      "source": "./plugins/tdd-flutter-security/.claude-plugin",
+      "description": "Flutter development plugin that use TDD and security policy",
+      "version": "1.0",
+      "author": {
+        "name": "Rose"
+      }
+    },
+    {
+      "name": "flutter-development-tools",
+      "source": {
+        "source": "github",
+        "repo":  "https://github.com/LinaYoun/auto-screenshot.git"
+      },
+      "description": "secure flutter-development-tools"
+    }
+  ]
+}
