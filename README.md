@@ -36,14 +36,13 @@ KISA 모바일 보안 가이드 기반의 5개 보안 도메인:
 
 ## Installation
 
-플러그인을 활성화하려면:
+플러그인을 설치하려면:
 
 ```bash
-# Claude Code 실행 시 플러그인 디렉토리 지정
-cc --plugin-dir C:\Users\0sule\.claude\plugins\tdd-flutter-security
+/plugin marketplace add https://github.com/LinaYoun/tdd-flutter-security.git
 ```
 
-또는 프로젝트의 `.claude-plugin` 폴더에 복사하여 사용할 수 있습니다.
+
 
 ## Usage
 
