@@ -7,20 +7,15 @@
   "plugins": [
     {
       "name": "tdd-flutter-security",
-      "source": "./plugins/tdd-flutter-security/.claude-plugin",
+      "source": {
+        "source": "github",
+        "repo":  "https://github.com/LinaYoun/tdd-flutter-security.git"
+      },
       "description": "Flutter development plugin that use TDD and security policy",
       "version": "1.0",
       "author": {
         "name": "Rose"
       }
-    },
-    {
-      "name": "flutter-development-tools",
-      "source": {
-        "source": "github",
-        "repo":  "https://github.com/LinaYoun/tdd-flutter-security.git"
-      },
-      "description": "secure flutter-development-tools"
     }
   ]
 }
