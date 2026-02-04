@@ -9,7 +9,7 @@
       "name": "tdd-flutter-security",
       "source": {
         "source": "github",
-        "repo":  "owner/repo"
+        "repo":  "Rose/tdd-flutter-security"
       },
       "description": "Flutter development plugin that use TDD and security policy",
       "version": "1.0",
@@ -20,3 +20,4 @@
   ]
 
 }
+
